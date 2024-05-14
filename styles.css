@@ -227,7 +227,7 @@ body {
 .text, .text2 {
   position: absolute;
   color: white;
-  font-family: 'Brush Script MT', cursive;
+  font-family: 'Math Sans', cursive;
   text-align: center;
 }
 .text {
