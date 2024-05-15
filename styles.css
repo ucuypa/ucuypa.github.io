@@ -227,14 +227,14 @@ body {
 .text, .text2 {
   position: absolute;
   color: white;
-  font-family: 'Math Sans', cursive;
+  font-family: 'Brush Script MT', cursive;
   text-align: center;
 }
 .text {
   width:350px;
   font-size: 50px;
   left:-140px;
-  top:100px;
+  top:140px;
   z-index:-1;
   transition: .3s;
   opacity:0;
